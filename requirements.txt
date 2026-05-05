@@ -13,3 +13,4 @@ numpy
 streamlit
 rank-bm25
 langchain-retrievers
+langchain-classic
